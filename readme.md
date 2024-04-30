@@ -32,3 +32,10 @@ The bot could perform automated tasks such as:
 
 Setting up meetings or reminders based on conversation cues.
 Executing predefined actions like sending birthday greetings, anniversary notes, or periodic check-ins based on the calendar.
+
+
+
+// API USED
+
+For this project i used Google gemini API key. 
+Refer youtube videos or guide for correct integration
